@@ -1,0 +1,17 @@
+{
+  "complete": true,
+  "formal_loads": 24,
+  "warmup_loads": 24,
+  "formal_requests": 360,
+  "warmup_requests": 360,
+  "all_outputs_valid": true,
+  "sorted_windows": 36,
+  "fixed_10ms_sort_and_atomic_checks_passed": true,
+  "nvlink_loads": 48,
+  "nvlink_all_passed": true,
+  "stream_requests": 540,
+  "write_done_pairs": 6732,
+  "source_unchanged_during_run": true,
+  "experiment_contexts_only_gpu4_5": true,
+  "gpus_released": true
+}

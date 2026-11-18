@@ -1,0 +1,11 @@
+/.claude/
+/.env
+/.venv/
+/models/
+/results/*
+!/results/reference_outputs_a100.csv
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+*.safetensors
